@@ -3,7 +3,7 @@ A simple distributed transaction example.
 
 
 
-## 基于mq的分布式事务
+#### 使用Event-Sourcing与MQ实现的分布式事务
 
 修改端口，启动2个应用。
 
