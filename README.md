@@ -3,6 +3,8 @@ A simple distributed transaction example.
 
 
 
+## 基于mq的分布式事务
+
 修改端口，启动2个应用。
 
 BarService第30行是主动抛异常，让事务回滚。
